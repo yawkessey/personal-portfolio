@@ -5,6 +5,6 @@ import "./Experience.css"
 
 export default function Experience() {
   return (
-    <div>Experience</div>
+    <section id="experience">Experience</section>
   )
 }

@@ -3,6 +3,6 @@ import "./Services.css"
 
 export default function Services() {
   return (
-    <div>Services</div>
+    <section id="services">Services</section>
   )
 }
